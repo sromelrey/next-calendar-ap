@@ -1,0 +1,21 @@
+.calendar{
+    max-width: 1400px;
+    width: 100%;
+    margin: auto;
+    border-collapse: collapse;
+    border: 1px solid #ddd
+
+}
+.calendar table{
+    width: 100%;
+}
+.calendar th,
+.calendar td{
+    width: 14.2857%;
+    text-align: center;
+    padding:  30px 10px;
+}
+
+.calendar th{
+    padding: 10px 0px;
+}
